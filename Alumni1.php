@@ -14,7 +14,7 @@ include 'Userlogin.php';
 _END;
 
      echo <<<_END
-<p><b>Already a Member?</b></p>
+<p><b>Already a Member? Login Below</b></p>
 <form action="Userlogin.php" method = "post">
 username:<input type ="text" name = "username"><br>
 password:<input type ="password" name = "password"><br>
